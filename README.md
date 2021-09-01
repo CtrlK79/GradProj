@@ -3,7 +3,9 @@ This repository is about the my Bachelor Dissertation in MAE, SNU.
 
 It deals with a celestial navigation system in the outer space, especially on the lunar exporation orbit.
 
-The main algorithm is 'Least Squares' and 'Weighted Least Squares'.
+The main algorithms are 'Least Squares' and 'Weighted Least Squares'.
+
+The details will be done in a form of a paper.
 
 # Reference
 [1] 주광혁, and 이상률. "별추적기의 기술개요와 개발동향." 한국항공우주학회지 38.3 (2010): 300-08.
