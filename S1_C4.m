@@ -47,4 +47,5 @@ Case4.Freq_LS = Case4.Counts_LS/Case4.N;
 Case4.Freq_WLS = Case4.Counts_WLS/Case4.N;
 
 %% Save the Results
+
 save('S1_C4.mat', 'Case4');

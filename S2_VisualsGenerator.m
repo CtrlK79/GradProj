@@ -5,6 +5,7 @@ clc;
 
 load('S2_C1.mat');
 load('S2_C2.mat');
+
 %% Time Setting
 
 sec2day = 1/(3600 * 24);                    % 1 day = 3600 * 24 secs
@@ -52,6 +53,7 @@ Venus.P = [VenusEph*X VenusEph*Y]';
 Mars.P = [MarsEph*X MarsEph*Y]';
 Moon.P = d * [cosd(theta);sind(theta)];
 Earth.P = zeros(2, length(theta));
+
 %% Additional Information
 
 clear VenusEph MarsEph Moon0_p Moon0_v

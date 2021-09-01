@@ -37,4 +37,5 @@ Case2.CritS = 0.01 * (1+[sum(Freq_small>0.1) sum(Freq_small>0.01) sum(Freq_small
 Case2.CritL = 180 - 0.01 * ([sum(Freq_large>0.1) sum(Freq_large>0.01) sum(Freq_large>0.001) sum(Freq_small>0.0001)]);
 
 %% Save the Results
+
 save('S1_C2.mat', 'Case2');

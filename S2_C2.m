@@ -48,6 +48,7 @@ Venus.P = [VenusEph*X VenusEph*Y]';
 Mars.P = [MarsEph*X MarsEph*Y]';
 Moon.P = d * [cosd(theta);sind(theta)];
 Earth.P = zeros(2, length(theta));
+
 %% Additional information
 
 clear VenusEph MarsEph Moon0_p Moon0_v
@@ -124,6 +125,7 @@ Case2.RMS_WLS(1:2, 2) = sqrt((length(t)*rms(Case2.Error_WLS, 2).^2 - length([Cas
 Case2.RMS_WLS(3, 2) = norm(Case2.RMS_WLS(1:2, 2));
 Case2.RMS_2P(1:2, 2) = sqrt((length(t)*rms(Case2.Error_2P, 2).^2 - length([Case2.CriticalTime1 Case2.CriticalTime2])*rms(Case2.Error_2P(:, [Case2.CriticalTime1 Case2.CriticalTime2]), 2).^2)/(length(t)-length([Case2.CriticalTime1 Case2.CriticalTime2])));
 Case2.RMS_2P(3, 2) = norm(Case2.RMS_2P(1:2, 2));
+
 %% Save the Results
 
 save('S2_C2.mat', 'Case2');

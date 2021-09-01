@@ -48,6 +48,7 @@ Venus.P = [VenusEph*X VenusEph*Y]';
 Mars.P = [MarsEph*X MarsEph*Y]';
 Moon.P = d * [cosd(theta);sind(theta)];
 Earth.P = zeros(2, length(theta));
+
 %% Additional Information
 
 clear VenusEph MarsEph Moon0_p Moon0_v
@@ -112,6 +113,7 @@ for i = 1:length(Case1.T)
     Case1.RMS_2P(3, i) = norm(Case1.RMS_2P(1:2, i));
     Case1.Ang(i) = acosd([1 0] * (Earth.E(:, Case1.T(i)).*Moon.E(:, Case1.T(i))));
 end
+
 %% Save the Results
 
 save('S2_C1.mat', 'Case1');

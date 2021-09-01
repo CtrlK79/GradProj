@@ -8,6 +8,7 @@ load('S1_C1.mat');
 load('S1_C2.mat');
 load('S1_C3.mat');
 load('S1_C4.mat');
+
 %% Case #1 Results
 
 for n = 1:length(Case1.R)
