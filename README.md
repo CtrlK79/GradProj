@@ -7,7 +7,7 @@ To put it personally, I learned a lot of things which help me deeply think about
 
 It deals with a celestial navigation system in the outer space, especially on the lunar exporation orbit.
 
-The main algorithms are 'Least Squares' and 'Weighted Least Squares'.
+I mainly followed the Mortari, D's work[3][6]. The main algorithms are 'Least Squares' and 'Weighted Least Squares'.
 
 The details will be done in a form of a paper.
 
