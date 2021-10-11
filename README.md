@@ -1,5 +1,9 @@
 # BS_Dissertation
-This repository is about the my Bachelor Dissertation in MAE, SNU.
+This repository is about the my Bachelor's dissertation at Department of Mechanical and Aerospace Engineering in SNU.
+
+The advisor was Prof. Chang-don, Kee.
+
+To put it personally, I learned a lot of things which help me deeply think about the way to make a research, form my own idea, live as an individual with the solid and sound values, from my honorable professor.
 
 It deals with a celestial navigation system in the outer space, especially on the lunar exporation orbit.
 
