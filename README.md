@@ -1,4 +1,4 @@
-# BS_Dissertation
+# BachelorThesis
 This repository is about the my Bachelor's dissertation at Department of Mechanical and Aerospace Engineering in SNU.
 
 The advisor was Prof. Changdon, Kee.
