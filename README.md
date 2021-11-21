@@ -1,5 +1,5 @@
-# Bachelor'sThesis
-This repository is about the my Bachelor's thesis at Department of Mechanical and Aerospace Engineering in SNU, Seoul, Korea.
+# BachelorThesis
+This repository is about the my Bachelor's thesis at Department of Mechanical and Aerospace Engineering in SNU, Seoul, Korea. It was done as a graduation project in  a course, "Integrated Design of Aerospace System".
 
 The advisor was Prof. Changdon, Kee.
 
