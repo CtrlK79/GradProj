@@ -1,15 +1,17 @@
 # BachelorThesis
-This repository is about the my Bachelor's thesis at Department of Mechanical and Aerospace Engineering in SNU, Seoul, Korea. It was done as a graduation project in  a course, "Integrated Design of Aerospace System".
+This repository is about the my Bachelor's thesis at Department of Mechanical and Aerospace Engineering in SNU, Seoul, Korea. It was done as a graduation project in  the course named "Integrated Design of Aerospace System".
 
-The advisor was Prof. Changdon, Kee.
+My honorable advisor was Prof. Changdon, Kee.
 
-To put it personally, I learned a lot of things which help me deeply think about the way to make a research, form my own idea, live as an individual with the solid and sound values, from my honorable professor.
+Thanks to my professor, I learned a lot of things which help me deeply think about the way to make a research from the scratch.
 
-It deals with a celestial navigation system in the outer space, especially on the lunar exporation orbit.
+This work deals with CNS(Celestial Navigation System) using star tracker and planets ephemeris.
 
-I mainly followed the Mortari, D's work[3][6]. The main algorithms are 'Least Squares' and 'Weighted Least Squares'.
+The main algorithm is based on LS(Least Squares) and WLS(Weighted Least Squares) optimization, which was already investigated before[4][5].
 
-The details will be done in a form of a paper.
+Even though this work consists of rudimentary ideas and results from the works already done, It has a meaning in that It reveals the exact factors which affect the performance of the navigation algorithm.
+
+Check the detalis in the paper.
 
 # Reference
 [1] Liebe, C.C., “Accuracy performance of star trackers-a tutorial,” _IEEE Transactionson aerospace and electronic systems_, Vol.38, No.2, 2002, pp.587–599.
