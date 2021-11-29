@@ -1,7 +1,7 @@
 # BachelorThesis
 This repository is about the my Bachelor's thesis at Department of Mechanical and Aerospace Engineering in SNU, Seoul, Korea. It was done as a graduation project in  the course named "Integrated Design of Aerospace System".
 
-My honorable advisor was Prof. Changdon, Kee.
+My honorable advisor was [Prof. Changdon, Kee](http://gnss.snu.ac.kr/bbs/board.php?bo_table=sub1_1).
 
 Thanks to my professor, I learned a lot of things which help me deeply think about the way to make a research from the scratch.
 
