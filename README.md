@@ -11,7 +11,7 @@ The main algorithm is based on LS(Least Squares) and WLS(Weighted Least Squares)
 
 Even though this work consists of rudimentary ideas and results from the works already done, It has a meaning in that It reveals the exact factors which affect the performance of the navigation algorithm.
 
-Check the detalis in the paper.
+Check the detalis [in the paper](./BS_Theis.pdf).
 
 # Reference
 [1] Liebe, C.C., “Accuracy performance of star trackers-a tutorial,” _IEEE Transactionson aerospace and electronic systems_, Vol.38, No.2, 2002, pp.587–599.
