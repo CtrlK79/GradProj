@@ -3,7 +3,7 @@ This repository is about the my Bachelor's thesis at [Department of Mechanical a
 
 My honorable advisor was [Prof. Changdon, Kee](http://gnss.snu.ac.kr/bbs/board.php?bo_table=sub1_1).
 
-Thanks to my professor, I learned a lot of things which help me deeply think about the way to make a research from the scratch.
+Although my work was just a simple project with undergraduate-level, I learned a lot about the process of research, thanks to my honorable professor.
 
 This work deals with CNS(Celestial Navigation System) using star tracker and planets ephemeris.
 
