@@ -9,7 +9,7 @@ This work deals with CNS(Celestial Navigation System) using star tracker and pla
 
 The main algorithm is based on LS(Least Squares) and WLS(Weighted Least Squares) optimization, which was already investigated before[4][5].
 
-Even though this work consists of rudimentary ideas and results from the works already done, It has a meaning in that It reveals the exact factors which affect the performance of the navigation algorithm.
+Even though this work consists of rudimentary ideas and results from the works already done, It has a meaning in that It reveals the factors which affect the performance of the navigation algorithm in a simple manner.
 
 Check the detalis [in the paper](./BS_Thesis.pdf).
 
