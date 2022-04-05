@@ -3,7 +3,7 @@ This repository is about the my undergraduate research project at the [Departmen
 
 My honorable advisor was [Prof. Changdon, Kee](http://gnss.snu.ac.kr/bbs/board.php?bo_table=sub1_1).
 
-Although my work was just a simple project with undergraduate-level, I learned a lot about the process of research, thanks to my honorable professor.
+Although my work was just a simple project with undergraduate-level, I learned a lot about the process of research, thanks to my dear professor.
 
 This work deals with CNS(Celestial Navigation System) using star tracker and planets ephemeris.
 
